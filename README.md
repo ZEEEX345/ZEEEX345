@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ZEEEX345&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=ZEEEX345&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZEEEX345&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true)
